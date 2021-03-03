@@ -8,7 +8,6 @@
     padding: 0;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
     background: black;
   }
   /* Link Styles */
@@ -80,7 +79,7 @@
   .image {
     width: 100%;
     height: 100%;
-    float: center;
+    float: left;
   }
   
   /* footer styles */
