@@ -90,6 +90,7 @@
   footer .copyright {
     top: -8px;
     font-size: .75em;
+    color: white; 
   }
   
   footer ul {
@@ -127,10 +128,7 @@
   .clearfix {
     clear: both;
   }
-  h2 {
-    text-align: center;
-    letter-spacing: 1px;
-  }
+
   
   /* Styles for larger screens */
   @media screen and (min-width: 720px) {
