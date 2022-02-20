@@ -1,6 +1,4 @@
-# Techdegree_Project_1
- Personal Portfolio
+FEWD Project 1 ---- Exceeds Expectations
 
-All the tabs except "resume" should be fully functional. 
+Customize a personal online profile by adding graphics, customizing text, and improving the look of a web page using Cascading Style Sheets, the formatting language of the web. All the tabs except "resume" should be fully functional. Click the link to view: 
 
-I did test in Safari, Chrome, and Firefox to make sure all the links work. 
